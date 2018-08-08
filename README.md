@@ -16,7 +16,7 @@ I have been working on my own personal website until then my portfolio can be ac
   
 <tr>
   <td><b>Todo List</b></td>
-  <td><a href="https://canersezgin.github.io/TodoList/">LIVE</a></td>
+  <td>LIVE</a></td>
 <td><a href="https://github.com/canersezgin/TodoList/tree/master/Source%20Codes">Codes</a></td>
 <td>07/30/2018</td>
 </tr>
