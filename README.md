@@ -22,6 +22,13 @@ I have been working on my own personal website until then my portfolio can be ac
 </tr>
 
 <tr>
+  <td><b>JS Canvas Snake Game</b></td>
+  <td><a href="https://canersezgin.github.io/canvas-snake-js/">LIVE</a></td>
+<td><a href="https://github.com/CanerSezgin/canvas-snake-js">Codes</a></td>
+<td>09/22/2018</td>
+</tr>
+
+<tr>
   <td><b>StopWatch</b></td>
   <td><a href="https://canersezgin.github.io/stopwatch/">LIVE</a></td>
 <td><a href="https://github.com/CanerSezgin/stopwatch">Codes</a></td>
