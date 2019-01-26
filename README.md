@@ -15,6 +15,13 @@ I have been working on my own personal website until then my portfolio can be ac
 </tr>
 
 <tr>
+  <td><b>Speed Reading</b></td>
+  <td><a href="https://canersezgin.github.io/SpeedReading/">LIVE</a></td>
+<td><a href="https://github.com/CanerSezgin/SpeedReading">Codes</a></td>
+<td>10/19/2018</td>
+</tr>
+
+<tr>
   <td><b>Shortest Path</b></td>
   <td><a href="https://canersezgin.github.io/shortest-path-js/">LIVE</a></td>
 <td><a href="https://github.com/CanerSezgin/shortest-path-js">Codes</a></td>
