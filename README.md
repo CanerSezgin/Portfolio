@@ -18,7 +18,7 @@ I have been working on my own personal website until then my portfolio can be ac
   <td><b>Speed Reading</b></td>
   <td><a href="https://canersezgin.github.io/SpeedReading/">LIVE</a></td>
 <td><a href="https://github.com/CanerSezgin/SpeedReading">Codes</a></td>
-<td>10/19/2018</td>
+<td>01/26/2019</td>
 </tr>
 
 <tr>
