@@ -14,6 +14,12 @@ I have been working on my own personal website until then my portfolio can be ac
 <th>Publish Date</th>
 </tr>
 
+<tr>
+  <td><b>Resizing Images (API) in Node.JS </b></td>
+  <td>LIVE</td>
+<td><a href="https://github.com/CanerSezgin/resizing-image-api/">Codes</a></td>
+<td>05/25/2019</td>
+</tr>
 
 <tr>
   <td><b>E-commerce Admin Dashboard</b></td>
