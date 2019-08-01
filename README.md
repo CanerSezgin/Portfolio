@@ -15,7 +15,14 @@ I have been working on my own personal website until then my portfolio can be ac
 </tr>
 
 <tr>
-  <td><b>Sudoku Solver Visualisation</b></td>
+  <td><b>API JSON Visualization</b></td>
+  <td><a href="https://vsaj.herokuapp.com/">LIVE</a></td>
+<td>Codes</td>
+<td>08/01/2019</td>
+</tr>
+
+<tr>
+  <td><b>Sudoku Solver Visualization</b></td>
   <td><a href="https://canersezgin.github.io/sudoku-solver/">LIVE</a></td>
 <td><a href="https://github.com/CanerSezgin/sudoku-solver">Codes</a></td>
 <td>05/29/2019</td>
