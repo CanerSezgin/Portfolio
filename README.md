@@ -11,6 +11,13 @@
 </tr>
 
   <tr>
+  <td><b>Reky | Open Source API Development Platform</b></td>
+    <td><a href="https://reky.org/">LIVE</a></td>
+  <td><a href="https://github.com/CanerSezgin/reky">Codes</a></td>
+  <td>08/19/2021</td>
+</tr>
+
+  <tr>
   <td><b>Realtime Leaderboard NPM Package</b></td>
     <td><a href="https://www.npmjs.com/package/realtime-leaderboard">LIVE</a></td>
   <td><a href="https://github.com/CanerSezgin/realtime-leaderboard">Codes</a></td>
